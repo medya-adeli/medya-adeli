@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm medya adeli</h1>
-<h3 align="center">A passionate backend developer from iran/kurdistan</h3>
+<h3 align="center">Im just normal developer</h3>
 
 - 🔭 I’m currently working on **payever**
 
