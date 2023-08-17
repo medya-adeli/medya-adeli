@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm medya adeli</h1>
 <h3 align="center">Im just normal developer</h3>
 
-- 🔭 I’m currently working on **payever**
+- 🔭 I’m currently working on **dos**
 
 - 🌱 I’m currently learning **laravel,magenta**
 
